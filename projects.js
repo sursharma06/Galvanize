@@ -2,6 +2,7 @@ function sum(num) {
   return num + 2;
 }
 
+sum(10);
 var newArray = [1, 2, 3, 4, 5];
 function addArray(arr) {
   var sum = 0;
