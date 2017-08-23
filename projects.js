@@ -13,3 +13,9 @@ function addArray(arr) {
 }
 
 addArray(newArray);
+
+function sayHello(name) {
+  return 'Hello ' + name;
+}
+
+sayHello('Surbhi');
